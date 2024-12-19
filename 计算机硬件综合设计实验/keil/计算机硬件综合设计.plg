@@ -1,0 +1,17 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+C:\AAU第二季\计算机硬件综合设计实验\keil\计算机硬件综合设计.uvproj
+Project File Date:  12/19/2024
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling 计算机硬件综合设计.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?SACK?计算籣硬件综合设计
+Program Size: data=33.5 xdata=0 code=2699
+creating hex file from "计算机硬件综合设计"...
+"计算机硬件综合设计" - 0 Error(s), 1 Warning(s).
